@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap:
-https://mcdimix.ru/sitemap.xml
+Sitemap: https://mcdimix.ru/sitemap.xml
