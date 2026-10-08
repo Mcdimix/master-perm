@@ -2,7 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mcdimix.ru/</loc>
-    <changefreq>weekly</changefreq>
+    <lastmod>2026-10-08</lastmod>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://mcdimix.ru/santehnik-perm</loc>
+    <lastmod>2026-10-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mcdimix.ru/elektrik-perm</loc>
+    <lastmod>2026-10-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mcdimix.ru/santehnik-krasnokamsk</loc>
+    <lastmod>2026-10-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mcdimix.ru/elektrik-krasnokamsk</loc>
+    <lastmod>2026-10-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mcdimix.ru/sborka-mebeli</loc>
+    <lastmod>2026-10-08</lastmod>
+    <priority>0.7</priority>
   </url>
 </urlset>
