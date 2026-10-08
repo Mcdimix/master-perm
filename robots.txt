@@ -1,4 +1,11 @@
 User-agent: *
-Allow: /
+Disallow: /cgi-bin/
+Disallow: /*?
+Disallow: /admin/
+Disallow: /tmp/
+Disallow: /*utm_
+Disallow: /*?s=
+Disallow: /*fbclid=
+Disallow: /*yclid=
 
 Sitemap: https://mcdimix.ru/sitemap.xml
